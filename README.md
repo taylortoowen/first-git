@@ -1,6 +1,7 @@
 first-git
 =========
 
-mkdir ~/Hello-World
-cd ~/Hello-World
-git init
+$mkdir ~/first-git
+$cd ~/first-git
+$git init
+$touch README
